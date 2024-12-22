@@ -1,9 +1,15 @@
 import { Inter } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import { ModeToggle } from "@/components/mode-toggle";
+import type { Metadata } from "next";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
+
+export const metadata: Metadata = {
+  title: "axdrsh",
+  description: "my personal website.",
+};
 
 export default function RootLayout({
   children,
