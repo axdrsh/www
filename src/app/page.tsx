@@ -65,7 +65,7 @@ export default function Home() {
           </p>
           <p>
             <Link
-              href="https://discord.com/user/1160444718421913701"
+              href="https://discord.com/users/1160444718421913701"
               className="underline inline-flex items-center hover:text-primary"
             >
               discord
