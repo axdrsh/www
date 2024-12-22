@@ -10,11 +10,22 @@ export default function Home() {
       <section>
         <h2 className="text-2xl font-semibold mb-4">about</h2>
         <div className="space-y-2">
-          <p>1st year college student.</p>
+          <p>
+            I'm a first-year college student who likes building things with code
+            and technology. minimalist, both in design and life, seeking
+            simplicity in a complex world.
+          </p>
+          {/* <p>1st year college student.</p>
           <p>
             <span className="font-medium">interested in:</span> cybersecurity,
             building things with code.
-          </p>
+          </p> */}
+        </div>
+      </section>
+
+      <section>
+        <h2 className="text-2xl font-semibold mb-4">stuff</h2>
+        <div className="space-y-2">
           <p>
             <span className="font-medium">working on:</span>{" "}
             <Link
@@ -24,14 +35,7 @@ export default function Home() {
               floww
               <ExternalLink className="ml-1 h-4 w-4" />
             </Link>
-            : a productivity web app.
           </p>
-        </div>
-      </section>
-
-      <section>
-        <h2 className="text-2xl font-semibold mb-4">stuff</h2>
-        <div className="space-y-2">
           <p>
             <Link
               href="https://x.com/axdrsh"
