@@ -8,7 +8,7 @@ export default function Home() {
       <span className="font-medium">(18M, he/him)</span>
 
       <section>
-        <h2 className="text-2xl font-semibold mb-4">about</h2>
+        {/* <h2 className="text-2xl font-semibold mb-4">about</h2> */}
         <div className="space-y-2">
           <p>
             I'm a first-year college student who likes building things with code
