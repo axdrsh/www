@@ -82,9 +82,13 @@ export default function Home() {
         <h2 className="text-2xl font-semibold mb-4">contact</h2>
         <p>
           dm me on X or write me an{" "}
-          <a className="underline" href="mailto:axdrsh@gmail.com">
+          <Link
+            href="mailto:axdrsh@gmail.com"
+            className="underline inline-flex items-center hover:text-primary"
+          >
             email
-          </a>
+            <ExternalLink className="ml-1 h-4 w-4" />
+          </Link>
           .
         </p>
       </section>
