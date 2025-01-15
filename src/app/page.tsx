@@ -12,14 +12,8 @@ export default function Home() {
         <div className="space-y-2">
           <p>
             I'm a first-year college student who likes building things with code
-            and technology. minimalist, both in design and life, seeking
-            simplicity in a complex world.
+            and technology. minimalist, both in design and life.
           </p>
-          {/* <p>1st year college student.</p>
-          <p>
-            <span className="font-medium">interested in:</span> cybersecurity,
-            building things with code.
-          </p> */}
         </div>
       </section>
 
@@ -86,13 +80,13 @@ export default function Home() {
 
       <section>
         <h2 className="text-2xl font-semibold mb-4">contact</h2>
-        <Link
-          href="mailto:axdrsh@gmail.com"
-          className="underline inline-flex items-center hover:text-primary"
-        >
-          axdrsh@gmail.com
-          <ExternalLink className="ml-1 h-4 w-4" />
-        </Link>
+        <p>
+          dm me on X or write me an{" "}
+          <a className="underline" href="mailto:axdrsh@gmail.com">
+            email
+          </a>
+          .
+        </p>
       </section>
     </div>
   );
