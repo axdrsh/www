@@ -23,7 +23,7 @@ export default function Home() {
           <p>
             <span className="font-medium">working on:</span>{" "}
             <Link
-              href="https://x.com/axdrsh"
+              href="https://github.com/floww"
               className="underline inline-flex items-center hover:text-primary"
             >
               floww
@@ -41,7 +41,7 @@ export default function Home() {
           </p>
           <p>
             <Link
-              href="https://wwww.github.com/axdrsh"
+              href="https://www.github.com/axdrsh"
               className="underline inline-flex items-center hover:text-primary"
             >
               github (checkout my projects.)
