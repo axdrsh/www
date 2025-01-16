@@ -25,7 +25,7 @@ export default function Home() {
           <p>
             <span className="font-medium">working on:</span>{" "}
             <Link
-              href="https://github.com/floww"
+              href="https://github.com/axdrsh/floww"
               className="underline inline-flex items-center hover:text-primary"
             >
               floww
