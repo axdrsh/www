@@ -11,8 +11,10 @@ export default function Home() {
         {/* <h2 className="text-2xl font-semibold mb-4">about</h2> */}
         <div className="space-y-2">
           <p>
-            I'm a first-year college student who likes building things with code
-            and technology. minimalist, both in design and life.
+            i'm a first-year college student who likes building stuff with code
+            and technology. i build things that are actually useful, whether
+            it’s websites, small apps, or just messing around with stuff for
+            fun. minimalist, both in design and life.
           </p>
         </div>
       </section>
