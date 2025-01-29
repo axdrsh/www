@@ -13,8 +13,8 @@ export default function Home() {
           <p>
             i'm a first-year college student who likes learning and building
             stuff with code and technology. my interests mainly revolve around
-            indie hacking and ai/ml. i also have a passion for cinema and music.
-            minimalist, both in design and life.
+            backend development and ai/ml. i also have a passion for cinema and
+            music. minimalist.
           </p>
         </div>
       </section>
