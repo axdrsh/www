@@ -5,7 +5,7 @@ export default function Page() {
 
       <p>
         1st year college student. likes to learn and build stuff for fun. i
-        build software thats actually useful and my study interests mainly
+        build softwares that are actually useful and my study interests mainly
         revolve around ai and machine learning. i also have a passion for cinema
         and music.
       </p>
