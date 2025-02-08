@@ -17,20 +17,21 @@ export default function Page() {
 
       <p>
         hi, i'm a 1st year college student. i like building useful software and
-        my interests mainly revolve around ai/machine learning and open source.
-        i also have a passion for cinema and music. you can find me on{" "}
-        <a
-          href="https://github.com/axdrsh"
-          className="underline hover:text-gray-600 inline-flex items-center"
-        >
-          github <ExternalLink className="w-3 h-3 ml-0.5" />
-        </a>{" "}
-        and{" "}
+        my interests mainly revolve around cs, ai/ml, robotics, open source, finance, cinema and music. you can find me on{" "}
         <a
           href="https://x.com/axdrsh"
           className="underline hover:text-gray-600 inline-flex items-center"
         >
-          x <ExternalLink className="w-3 h-3 ml-0.5" />
+          x
+           <ExternalLink className="w-3 h-3 ml-0.5" />
+        </a>{" "}
+        and{" "}
+        <a
+          href="https://github.com/axdrsh"
+          className="underline hover:text-gray-600 inline-flex items-center"
+        >
+          github
+         <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>
         .
       </p>
