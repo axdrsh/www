@@ -16,7 +16,7 @@ export default function Page() {
       <h1 className="text-xl">adarsh.</h1>
 
       <p>
-        hi, i'm a 1st year college student. i like building useful software and
+        hi, i'm a 1st year college student. i like building stuff and
         my interests mainly revolve around cs, ai/ml, open source, robotics, cinema and music. you can find me on{" "}
         <a
           href="https://x.com/axdrsh"
