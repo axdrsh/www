@@ -34,6 +34,16 @@ export default function Page() {
          <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>
         .
+        <br/>
+        you can also checkout my 
+        <a
+          href="https://axdrsh.bearblog.dev/"
+          className="underline hover:text-gray-600 inline-flex items-center"
+        >
+          blog
+         <ExternalLink className="w-3 h-3 ml-0.5" />
+        </a>
+        .
       </p>
     </main>
   );
