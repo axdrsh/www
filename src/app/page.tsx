@@ -35,7 +35,7 @@ export default function Page() {
         </a>
         .
         <br/>
-        you can also checkout my 
+        you can also checkout my{" "}
         <a
           href="https://axdrsh.bearblog.dev/"
           className="underline hover:text-gray-600 inline-flex items-center"
