@@ -17,7 +17,7 @@ export default function Page() {
 
       <p>
         hi, i'm a 1st year college student. i like building stuff and
-        my interests mainly revolve around backend dev, ai/ml, open source, robotics, cinema and music. you can find me on{" "}
+        my interests mainly revolve around backend development, ai/machine learning, open source, robotics, cinema and music. you can find me on{" "}
         <a
           href="https://x.com/axdrsh"
           className="underline hover:text-gray-600 inline-flex items-center"
