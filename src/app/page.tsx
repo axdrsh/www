@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <main className="max-w-xl mx-auto px-4 py-12 space-y-4 font-mono">
       <Image
-        src="/lucy.jpeg"
+        src="/nagi.jpeg"
         alt="Profile picture"
         width={64}
         height={64}
