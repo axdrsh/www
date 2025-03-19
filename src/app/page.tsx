@@ -17,7 +17,8 @@ export default function Page() {
 
       <p>
         hi, i'm a 1st year college student. i like building stuff and
-        my interests mainly revolve around backend, ai/ml, open source, robotics, cinema and music. you can find me on{" "}
+        my interests mainly revolve around backend, ai/ml, open source, robotics, cinema and music.
+        <br/>
         <a
           href="https://x.com/axdrsh"
           className="underline hover:text-gray-600 inline-flex items-center"
@@ -25,7 +26,6 @@ export default function Page() {
           x
            <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>{" "}
-        and{" "}
         <a
           href="https://github.com/axdrsh"
           className="underline hover:text-gray-600 inline-flex items-center"
@@ -33,9 +33,7 @@ export default function Page() {
           github
          <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>
-        .
-        <br/>
-        you can also checkout my{" "}
+        {" "}
         <a
           href="https://axdrsh.bearblog.dev/"
           className="underline hover:text-gray-600 inline-flex items-center"
@@ -43,7 +41,6 @@ export default function Page() {
           blog
          <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>
-        .
       </p>
     </main>
   );
