@@ -17,7 +17,7 @@ export default function Page() {
 
       <p>
         hi, i'm a 1st year college student. i like building stuff and
-        my interests mainly revolve around backend, ai/ml, open source, robotics, cinema and music.
+        my interests mainly revolve around backend, ai/ml, open source, robotics.
         <br/>
         <a
           href="https://x.com/axdrsh"
@@ -35,7 +35,7 @@ export default function Page() {
         </a>
         {" "}
         <a
-          href="https://axdrsh.bearblog.dev/"
+          href="/"
           className="underline hover:text-gray-600 inline-flex items-center"
         >
           blog
