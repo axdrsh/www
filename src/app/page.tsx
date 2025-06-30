@@ -17,7 +17,7 @@ export default function Page() {
 
       <p>
         hi, i'm a 1st year college student. i like building stuff and
-        my interests mainly revolve around backend, ai/ml, open source, robotics.
+        my interests mainly revolve around backend, ai/ml, open source, and defense tech.
         <br/>
         <a
           href="https://x.com/axdrsh"
