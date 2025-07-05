@@ -21,22 +21,22 @@ export default function Page() {
         <br/>
         <a
           href="https://x.com/axdrsh"
-          className="underline hover:text-gray-600 inline-flex items-center"
+          className="underline hover:text-gray-300 inline-flex items-center"
         >
           x
            <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>{" "}
         <a
           href="https://github.com/axdrsh"
-          className="underline hover:text-gray-600 inline-flex items-center"
+          className="underline hover:text-gray-300 inline-flex items-center"
         >
           github
          <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>
         {" "}
         <a
-          href="/"
-          className="underline hover:text-gray-600 inline-flex items-center"
+          href="/blog"
+          className="underline hover:text-gray-300 inline-flex items-center"
         >
           blog
          <ExternalLink className="w-3 h-3 ml-0.5" />
