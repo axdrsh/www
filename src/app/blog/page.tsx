@@ -9,11 +9,11 @@ interface BlogPost {
 
 const blogPosts: BlogPost[] = [
   {
-    slug: "my-first-blog",
-    title: "my first blog",
-    date: "2024-01-20",
-    description: "hello world, this is my first blog post"
-  }
+    slug: "reverse-pomodoro",
+    title: "the reverse pomodoro: track time, not timers",
+    date: "2024-07-11",
+    description: "a new productivity technique developed by me.",
+  },
 ];
 
 export default function Blog() {
@@ -30,7 +30,7 @@ export default function Blog() {
         {blogPosts.map((post) => (
           <article key={post.slug} className="space-y-2">
             <div className="flex flex-col gap-1">
-              <Link 
+              <Link
                 href={`/blog/${post.slug}`}
                 className="underline hover:text-gray-300"
               >
@@ -38,12 +38,10 @@ export default function Blog() {
               </Link>
               <time className="text-sm opacity-70">{post.date}</time>
             </div>
-            <p className="text-sm opacity-80">
-              {post.description}
-            </p>
+            <p className="text-sm opacity-80">{post.description}</p>
           </article>
         ))}
       </div>
     </main>
   );
-} 
+}

@@ -16,30 +16,29 @@ export default function Page() {
       <h1 className="text-xl">adarsh.</h1>
 
       <p>
-        hi, i'm a 1st year college student. i like building stuff and
-        my interests mainly revolve around backend, ai/ml, and defense tech.
-        <br/>
+        hi, i'm a 1st year college student. i like building stuff and my
+        interests mainly revolve around backend, ai/ml, and defense tech.
+        <br />
         <a
           href="https://x.com/axdrsh"
           className="underline hover:text-gray-300 inline-flex items-center"
         >
           x
-           <ExternalLink className="w-3 h-3 ml-0.5" />
+          <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>{" "}
         <a
           href="https://github.com/axdrsh"
           className="underline hover:text-gray-300 inline-flex items-center"
         >
           github
-         <ExternalLink className="w-3 h-3 ml-0.5" />
-        </a>
-        {" "}
+          <ExternalLink className="w-3 h-3 ml-0.5" />
+        </a>{" "}
         <a
           href="/blog"
           className="underline hover:text-gray-300 inline-flex items-center"
         >
           blog
-         <ExternalLink className="w-3 h-3 ml-0.5" />
+          <ExternalLink className="w-3 h-3 ml-0.5" />
         </a>
       </p>
     </main>
