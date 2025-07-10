@@ -11,7 +11,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: "reverse-pomodoro",
     title: "the reverse pomodoro",
-    date: "2024-07-11",
+    date: "11/07/2025",
     description: "a new productivity technique developed by me.",
   },
 ];
