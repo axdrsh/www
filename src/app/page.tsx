@@ -1,46 +1,80 @@
 import Image from "next/image";
-import { ExternalLink } from "lucide-react";
+import Link from "next/link";
 
 export default function Page() {
   return (
-    <main className="max-w-xl mx-auto px-4 py-12 space-y-4 font-mono">
-      <Image
-        src="/nagi.jpeg"
-        alt="Profile picture"
-        width={64}
-        height={64}
-        className="rounded-sm"
-        priority
-      />
+    <div id="top" className="space-y-6">
+      <div className="space-y-3">
+        <h1 className="text-xl">adarsh.</h1>
 
-      <h1 className="text-xl">adarsh.</h1>
+        <div className="space-y-2 max-w-xl">
+          <p>1st year college student. i build stuff.</p>
 
-      <p>
-        hi, i'm a 1st year college student. i like building stuff and my
-        interests mainly revolve around backend development, ai/machine learning, open source, robotics and defense tech.
-        <br />
-        <a
-          href="https://x.com/axdrsh"
-          className="underline hover:text-gray-300 inline-flex items-center"
-        >
-          x
-          <ExternalLink className="w-3 h-3 ml-0.5" />
-        </a>{" "}
-        <a
-          href="https://github.com/axdrsh"
-          className="underline hover:text-gray-300 inline-flex items-center"
-        >
-          github
-          <ExternalLink className="w-3 h-3 ml-0.5" />
-        </a>{" "}
-        <a
-          href="/blog"
-          className="underline hover:text-gray-300 inline-flex items-center"
-        >
-          blog
-          <ExternalLink className="w-3 h-3 ml-0.5" />
-        </a>
-      </p>
-    </main>
+          <p>
+            interested in backend dev, ml, robotics, low level systems and open
+            source. this is my corner of the internet.
+          </p>
+
+          <p>i'm also a huge cinephile and love music, especially hip hop.</p>
+
+          <p>
+            check out my{" "}
+            <Link href="/devlog" className="underline">
+              devlog
+            </Link>{" "}
+            {"for thoughts, notes and ideas :)"}
+          </p>
+        </div>
+      </div>
+
+      <div className="space-y-2 text-center">
+        <Image
+          src="/lights.jpg"
+          alt="lights photo"
+          width={800}
+          height={400}
+          className="w-full h-auto rounded"
+          priority
+        />
+        <p className="text-xs opacity-70">i wanna visit japan someday.</p>
+      </div>
+
+      <div className="space-y-2">
+        <h2 className="text-lg">currently</h2>
+        <ul className="space-y-1 text-sm">
+          <li>deep into backend dev</li>
+          <li>building useless (sometimes useful) projects</li>
+          <li>exploring ml fundamentals</li>
+        </ul>
+      </div>
+
+      <div className="space-y-2">
+        <h2 className="text-lg">contact</h2>
+        <div className="flex items-center space-x-3 text-sm">
+          <a
+            href="https://x.com/axdrsh"
+            className="underline hover:opacity-70"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            x
+          </a>
+          <a
+            href="https://github.com/axdrsh"
+            className="underline hover:opacity-70"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            github
+          </a>
+          <a
+            href="mailto:adarsh@adarsh.dev"
+            className="underline hover:opacity-70"
+          >
+            email
+          </a>
+        </div>
+      </div>
+    </div>
   );
 }
