@@ -22,7 +22,7 @@ export default function RootLayout({
           <div className="flex items-center justify-between text-sm">
             <div className="flex items-center space-x-4">
               <Link href="/" className="hover:opacity-70 transition-opacity">
-                /about
+                /home
               </Link>
               <Link
                 href="/devlog"
@@ -35,11 +35,6 @@ export default function RootLayout({
                 className="hover:opacity-70 transition-opacity"
               >
                 /notes
-              </Link>
-            </div>
-            <div>
-              <Link href="/" className="hover:opacity-70 transition-opacity">
-                /home
               </Link>
             </div>
           </div>
