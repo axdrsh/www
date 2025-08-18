@@ -11,8 +11,7 @@ export default function Page() {
           <p>1st year college student. i build stuff.</p>
 
           <p>
-            interested in backend dev, ml, robotics, low level systems and open
-            source. this is my corner of the internet.
+            interested in backend, machine learning and robotics. this is my corner of the internet.
           </p>
 
           <p>i'm also a huge cinephile and love music, especially hip hop.</p>
