@@ -21,7 +21,7 @@ export default function Page() {
             <Link href="/devlog" className="underline">
               devlog
             </Link>{" "}
-            {"for thoughts. opinions my own.:)"}
+            {"for thoughts. opinions my own. :)"}
           </p>
         </div>
       </div>
