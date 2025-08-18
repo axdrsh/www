@@ -11,7 +11,7 @@ export default function Page() {
           <p>2nd year college student. i build stuff.</p>
 
           <p>
-            interested in backend, systems, machine learning and robotics. this is my corner of the internet.
+            interested in backend, systems, machine learning and HPC. this is my corner of the internet.
           </p>
 
           <p>i'm also a huge cinephile and love music, especially hip hop.</p>
@@ -21,7 +21,7 @@ export default function Page() {
             <Link href="/devlog" className="underline">
               devlog
             </Link>{" "}
-            {"for thoughts, notes and ideas :)"}
+            {"for thoughts. opinions my own.:)"}
           </p>
         </div>
       </div>
