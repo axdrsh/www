@@ -12,7 +12,7 @@ const devlogEntries: DevlogEntry[] = [
   {
     slug: "reverse-pomodoro",
     title: "reverse pomodoro",
-    date: "november 7, 2025",
+    date: "july 10, 2025",
     type: "post",
     description: "a new productivity technique i've been experimenting with.",
   },
