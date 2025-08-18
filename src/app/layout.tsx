@@ -30,12 +30,6 @@ export default function RootLayout({
               >
                 /devlog
               </Link>
-              <Link
-                href="/notes"
-                className="hover:opacity-70 transition-opacity"
-              >
-                /notes
-              </Link>
             </div>
           </div>
         </nav>
