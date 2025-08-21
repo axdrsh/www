@@ -45,7 +45,7 @@ export default function Page() {
         <ul className="space-y-1 text-sm">
           <li>deep in backend dev</li>
           <li>building useless and sometimes useful projects</li>
-          <li>dabbling into ml and systems</li>
+          <li>dabbling into ml/dl and systems</li>
         </ul>
       </div>
 
