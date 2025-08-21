@@ -8,7 +8,7 @@ export default function Page() {
         <h1 className="text-xl">adarsh.</h1>
 
         <div className="space-y-2 max-w-xl">
-          <p>2nd year college student. i build stuff.</p>
+          <p>2nd year college student. i like to build.</p>
 
           <p>
             generalist. mainly interested in backend, machine learning, game
