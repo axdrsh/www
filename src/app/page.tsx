@@ -11,7 +11,8 @@ export default function Page() {
           <p>2nd year college student. i build stuff.</p>
 
           <p>
-            interested in backend, machine learning, game dev, systems, and HPC.
+            generalist. mainly interested in backend, machine learning, game
+            dev, systems, and HPC.
           </p>
 
           <p>this is my corner of the internet.</p>
