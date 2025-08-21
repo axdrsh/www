@@ -11,12 +11,10 @@ export default function Page() {
           <p>2nd year college student. i build stuff.</p>
 
           <p>
-            interested in backend, systems, machine learning and HPC.
+            interested in backend, machine learning, game dev, systems, and HPC.
           </p>
 
-          <p>
-          this is my corner of the internet.
-          </p>
+          <p>this is my corner of the internet.</p>
 
           <p>i'm also a huge cinephile and love music, especially hip hop.</p>
 
@@ -46,8 +44,8 @@ export default function Page() {
         <h2 className="text-lg">currently</h2>
         <ul className="space-y-1 text-sm">
           <li>deep into backend dev</li>
-          <li>building useless (sometimes useful) projects</li>
-          <li>exploring ml fundamentals</li>
+          <li>building useless and sometimes useful projects</li>
+          <li>dabbling into ml, systems and game dev</li>
         </ul>
       </div>
 
