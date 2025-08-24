@@ -11,7 +11,7 @@ export default function Page() {
           <p>2nd year college student. i like to build.</p>
 
           <p>
-            generalist. mainly interested in backend, devops/infra, machine learning, systems, and HPC.
+            generalist. mainly interested in backend, devops/infra, machine learning (mostly applied, little theory), systems, and HPC.
           </p>
 
           <p>this is my corner of the internet.</p>
@@ -43,9 +43,9 @@ export default function Page() {
       <div className="space-y-2">
         <h2 className="text-lg">currently</h2>
         <ul className="space-y-1 text-sm">
-          <li>deep in backend dev</li>
+          <li>deep in backend, infra & systems</li>
           <li>building useless (sometimes useful) projects</li>
-          <li>dabbling into ml/dl and systems</li>
+          <li>dabbling into machine learning</li>
         </ul>
       </div>
 
