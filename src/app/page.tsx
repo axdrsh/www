@@ -16,7 +16,7 @@ export default function Page() {
 
           <p>this is my corner of the internet.</p>
 
-          <p>i'm also like minimalism, cinema and hiphop.</p>
+          <p>i'm also like minimalism, cinema and hip hop.</p>
 
           <p>
             check out my{" "}
