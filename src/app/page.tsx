@@ -23,7 +23,7 @@ export default function Page() {
             <Link href="/devlog" className="underline">
               devlog
             </Link>{" "}
-            {"for thoughts. opinions my own. :)"}
+            {"for my thoughts, notes or ideas. :)"}
           </p>
         </div>
       </div>
@@ -38,15 +38,6 @@ export default function Page() {
           priority
         />
         <p className="text-xs opacity-70">i wanna visit japan someday.</p>
-      </div>
-
-      <div className="space-y-2">
-        <h2 className="text-lg">currently</h2>
-        <ul className="space-y-1 text-sm">
-          <li>deep in backend, infra & systems</li>
-          <li>building useless (sometimes useful) projects</li>
-          <li>dabbling into machine learning</li>
-        </ul>
       </div>
 
       <div className="space-y-2">
