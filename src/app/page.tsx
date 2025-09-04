@@ -11,12 +11,12 @@ export default function Page() {
           <p>2nd year undergrad. i like to build.</p>
 
           <p>
-            generalist. mainly interested in backend, infra, machine learning (mostly engineering, little theory), systems, and HPC.
+            generalist. interested in backend, systems, ml engineering and infra. i mainly work at the intersection of software and ml.
           </p>
 
           <p>this is my corner of the internet.</p>
 
-          <p>i'm also a huge cinephile and love music, especially hip hop.</p>
+          <p>i'm also like minimalism, cinema and hiphop.</p>
 
           <p>
             check out my{" "}
