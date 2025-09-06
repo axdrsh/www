@@ -8,7 +8,7 @@ export default function Page() {
         <h1 className="text-xl">adarsh.</h1>
 
         <div className="space-y-2 max-w-xl">
-          <p>generalist. i love building things that solve real problems.</p>
+          <p>generalist. i love building things.</p>
 
           <p>
            i work across software, ml and infra, but what drives me most is taking ideas from concept to reality and making them actually come to life. this is my corner of the internet.
