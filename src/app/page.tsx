@@ -8,13 +8,11 @@ export default function Page() {
         <h1 className="text-xl">adarsh.</h1>
 
         <div className="space-y-2 max-w-xl">
-          <p>2nd year undergrad. i like to build.</p>
+          <p>generalist. i love building things that solve real problems.</p>
 
           <p>
-            generalist. interested in backend, systems, ml engineering and infra. i mainly work at the intersection of software and ml.
+           i work across software, ml and infra, but what drives me most is taking ideas from concept to reality and making them actually come to life. this is my corner of the internet :)
           </p>
-
-          <p>this is my corner of the internet.</p>
 
           <p>i'm also like minimalism, cinema and hip hop.</p>
 
