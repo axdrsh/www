@@ -35,7 +35,6 @@ export default function Page() {
           className="w-full h-auto rounded"
           priority
         />
-        <p className="text-xs opacity-70">i wanna visit japan someday.</p>
       </div>
 
       <div className="space-y-2">
