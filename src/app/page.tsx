@@ -11,7 +11,7 @@ export default function Page() {
           <p>generalist. i love building things.</p>
 
           <p>
-           i work across software, ml and infra, but what drives me most is taking ideas from concept to reality and making them actually come to life. this is my corner of the internet.
+           i work across software, ml and infra, but what drives me most is taking ideas from concept to reality and making them actually come to life.
           </p>
 
           <p>i'm also like minimalism, cinema and hip hop.</p>
