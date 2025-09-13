@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <div id="top" className="space-y-6">
       <div className="space-y-3">
-        <h1 className="text-xl">catcupcate.</h1>
+        <h1 className="text-xl">adarsh.</h1>
 
         <div className="space-y-2 max-w-xl">
           <p>generalist. i love building things.</p>
