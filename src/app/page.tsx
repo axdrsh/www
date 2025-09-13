@@ -5,13 +5,13 @@ export default function Page() {
   return (
     <div id="top" className="space-y-6">
       <div className="space-y-3">
-        <h1 className="text-xl">adarsh.</h1>
+        <h1 className="text-xl">catcupcate.</h1>
 
         <div className="space-y-2 max-w-xl">
           <p>generalist. i love building things.</p>
 
           <p>
-           i work across backend, systems, ml and infra, but what drives me most is taking ideas from concept to reality and making them actually come to life.
+           i work across backend, systems, ml and infra, but what really excites me is turning my ideas from concepts into real, working things.
           </p>
 
           <p>i'm also like minimalism, cinema and hip hop.</p>
